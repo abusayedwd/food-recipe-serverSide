@@ -19,10 +19,12 @@ app.get('/recipes', (req,res) => {
         res.send(recipes)
      })
 
-app.get('/chef/:id', (req,res)=> {
-        const id = req.params.id;
-  const singleChef = chefs.find(chef => chef.id ==id) || [];
-  res.send(singleChef);
+      
+     app.get('/chef/:id', (req,res)=> {
+             const id = req.params.id;
+       const singleChef = chefs.find(chef => chef.id ==id) || [];
+       res.send(singleChef);
+      
 })
 
 
