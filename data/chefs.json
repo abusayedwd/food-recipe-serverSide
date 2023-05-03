@@ -1,0 +1,50 @@
+[  
+{  "id": 1,    
+"photo": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",    
+"name": "John Smith",
+    
+"experience": "10 years",    
+"number_of_recipes": 50,    
+"likes": 1000,    
+"bio": "John is a classically trained chef who specializes in French cuisine. He has worked in some of the finest restaurants in Paris and New York City."  },
+
+{ "id": 2,    
+"photo": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",    
+"name": "Jane Doe",    
+"experience": "5 years",    
+"number_of_recipes": 20,    
+"likes": 500,    
+"bio": "Jane is a self-taught chef who loves experimenting with different flavors and textures. She is known for her creative and unique dishes."  }, 
+
+{    "id": 3,    
+"photo": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",    
+"name": "Robert Lee",    
+"experience": "15 years",    
+"number_of_recipes": 75,    
+"likes": 2000,    
+"bio": "Robert is a fusion chef who blends Asian and European flavors. He has won numerous awards for his innovative cuisine."  },
+
+{    "id": 4,    
+"photo": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",    
+"name": "Maria Rodriguez",    
+"experience": "8 years",    
+"number_of_recipes": 30,    
+"likes": 750,    
+"bio": "Maria is a pastry chef who specializes in traditional Latin American desserts. She is passionate about preserving her cultural heritage through her cooking."  }, 
+
+{    "id": 5,    
+"photo": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=787&q=80",    
+"name": "David Kim",    
+"experience": "12 years",    
+"number_of_recipes": 60,    
+"likes": 1500,    
+"bio": "David is a Korean-American chef who combines traditional Korean ingredients and techniques with modern cooking styles. He owns his own restaurant in Los Angeles."  }, 
+
+{    "id": 6,    
+"photo": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",    
+"name": "Cynthia Wong",    
+"experience": "7 years",    
+"number_of_recipes": 25,    
+"likes": 400,    
+"bio": "Cynthia is a pastry chef who specializes in gluten-free and vegan desserts. She is committed to making delicious desserts accessible to people with dietary restrictions."  }
+]
